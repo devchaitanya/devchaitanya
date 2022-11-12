@@ -3,9 +3,9 @@
 <h3 align="center">A passionate full stack developer and ML engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devchaitanya&label=Profile%20views&color=0e75b6&style=flat" alt="devchaitanya" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchaitanya&label=Profile%20views&color=0e75b6&style=flat" alt="devchaitanya" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/ck_dev27" target="blank"><img src="https://img.shields.io/twitter/follow/ck_dev27?logo=twitter&style=for-the-badge" alt="ck_dev27" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/ck_dev27" target="blank"><img src="https://img.shields.io/twitter/follow/ck_dev27?logo=twitter&style=for-the-badge" alt="ck_dev27" /></a> </p> -->
 
 - 🌱 I’m currently learning **Backend Development,Azure DevOps**
 
