@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning **DevOps with AWS,Machine Learning**
 
+- 📚 3rd year undergrad major in CS with AI and ROBOTICS 
+
+- 🤖 i love to learn and build things
+
 - 📫 How to reach me **ck.dev27@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
