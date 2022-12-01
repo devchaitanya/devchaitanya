@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ck.dev27@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ck_dev27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ck_dev27" height="30" width="40" /></a>
@@ -29,6 +27,6 @@
 
 ⚡ GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devchaitanya&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=fff" alt="devchaitanya" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchaitanya&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=fff" alt="devchaitanya" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchaitanya&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=fff" alt="devchaitanya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devchaitanya&" alt="devchaitanya" /></p>
