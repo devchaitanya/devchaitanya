@@ -11,7 +11,7 @@
 
 - 📚 3rd year undergrad major in CS with AI and ROBOTICS 
 
-- 🤖 i love to learn and build things
+- 🤖 love to learn and build things
 
 - 📫 How to reach me **ck.dev27@gmail.com**
 
