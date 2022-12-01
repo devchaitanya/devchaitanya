@@ -29,7 +29,7 @@
 
 ⚡ GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devchaitanya&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=fff" alt="devchaitanya" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devchaitanya&" alt="devchaitanya" width="400" height="230"/><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devchaitanya&" alt="devchaitanya" width="400" height="220"/><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchaitanya&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=fff" alt="devchaitanya" /></p>
 
 <p></p>
