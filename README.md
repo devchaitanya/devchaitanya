@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/ck_dev27" target="blank"><img src="https://img.shields.io/twitter/follow/ck_dev27?logo=twitter&style=for-the-badge" alt="ck_dev27" /></a> </p> -->
 
-- 📚 3rd year undergrad major in CS with AI and ROBOTICS 
+- 📚 final year undergrad major in CS with AI and ROBOTICS 
 
 - 👨‍💻 love to learn and build things
 
