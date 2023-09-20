@@ -1,6 +1,11 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi there 👋, I'm Chaitanya </h1>
-<h3 align="center">A passionate AI engineer from India</h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/devchaitanya/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20AI%20Engineer;Always%20learning%20New%20things;&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 <img aligh ="left" alt ="Profile Views" src="https://komarev.com/ghpvc/?username=devchaitanya">
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
