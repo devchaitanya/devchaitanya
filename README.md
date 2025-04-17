@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by devchaitanya - https://github.com/devchaitanya/readme-typing-svg -->
   <a href="https://github.com/devchaitanya/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20AI%20Researcher;Always%20learning%20New%20things;&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20AI%20Researcher;Loves%20Tech;&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
