@@ -10,9 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20AI%20Researcher;Always%20learning%20New%20things;&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
-<img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=devchaitanya">
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<br>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchaitanya&label=Profile%20views&color=0e75b6&style=flat" alt="devchaitanya" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/ck_dev27" target="blank"><img src="https://img.shields.io/twitter/follow/ck_dev27?logo=twitter&style=for-the-badge" alt="ck_dev27" /></a> </p> -->
@@ -46,23 +44,3 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/raspberry-pi/raspberry-pi.png" alt="raspberry-pi"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="terminal"></code>
 
-<h2>📊 Github Stats and Activity</h2>
-
-<h3>🔥 Streak Stats</h3>
-
-<!-- GitHub Readme Streak Stats - https://github.com/devchaitanya/github-readme-streak-stats -->
-<p>
-  <a href="https://github.com/devchaitanya/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="devchaitanya's streak" src="https://streak-stats.demolab.com/?user=devchaitanya&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-<h3>💻 GitHub Profile Stats</h3>
-
-<a href="https://github.com/devchaitanya/github-readme-stats"><img alt="devchaitanya's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=devchaitanya&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/devchaitanya/github-readme-stats"><img alt="devchaitanya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchaitanya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="130px"/></a>
-<br/>
-
-<a href="https://github.com/devchaitanya/github-readme-activity-graph"><img alt="devchaitanya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=devchaitanya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-[![An image of @devchaitanya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devchaitanya)](https://holopin.io/@devchaitanya)
-<b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
