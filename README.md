@@ -25,7 +25,7 @@
  <a href="https://linkedin.com/in/chaitanya-kamasani" target="_blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
  </a>
- <a href="https://twitter.com/ck_dev27" target="_blank">
+ <a href="https://twitter.com/Dev27Ck" target="_blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
  </a>
 </p>
